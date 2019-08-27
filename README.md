@@ -4,4 +4,4 @@ A new Flutter application.
 
 ## why i have this repository?
 
-This project is only for resolve ```dart NoSuchMethodError: The getter 'body' was called on null.```
+This project is only for resolve ```NoSuchMethodError: The getter 'body' was called on null.```
